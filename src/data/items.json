@@ -22,5 +22,29 @@
     "name": "Macbook",
     "price": 1002.33,
     "imgUrl": "/images/macbook.webp"
+  },
+  {
+    "id": 5,
+    "name": "Grapes",
+    "price": 12.99,
+    "imgUrl": "/images/grape.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Orange",
+    "price": 7.5,
+    "imgUrl": "/images/orange.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Apple",
+    "price": 15.4,
+    "imgUrl": "/images/apple.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Volkswagen",
+    "price": 41335.4,
+    "imgUrl": "/images/vw.jpeg"
   }
 ]
